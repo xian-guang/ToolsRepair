@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WaterSpar"
+      },
+      {
+        "value": "CUSTOM:WaterSpar"
+      },
+      {
+        "value": "CUSTOM:WaterSpar"
+      },
+      {
+        "value": "CUSTOM:WaterSpar"
+      },
+      {
+        "value": "CUSTOM:WaterXiuFu"
+      },
+      {
+        "value": "CUSTOM:WaterSpar"
+      },
+      {
+        "value": "CUSTOM:WaterSpar"
+      },
+      {
+        "value": "CUSTOM:WaterSpar"
+      },
+      {
+        "value": "CUSTOM:WaterSpar"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WaterFuShi"
+    },
+    "name": "water_16",
+    "namespace": "mod"
+  }
+}

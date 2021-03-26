@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wateraxe",
+    "customModelName": "Normal",
+    "name": "Water Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Water"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 24,
+    "damageVsEntity": 10.0,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
