@@ -1,0 +1,42 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "test:water_spar"
+    },
+    "1": {
+      "item": "test:water_block"
+    },
+    "2": {
+      "item": "test:water_spar"
+    },
+    "3": {
+      "item": "test:water_block"
+    },
+    "4": {
+      "item": "test:water_spar"
+    },
+    "5": {
+      "item": "test:water_block"
+    },
+    "6": {
+      "item": "test:water_spar"
+    },
+    "7": {
+      "item": "test:water_block"
+    },
+    "8": {
+      "item": "test:water_spar"
+    }
+  },
+  "result": {
+    "item": "test:water_crystal",
+    "count": 3
+  }
+}

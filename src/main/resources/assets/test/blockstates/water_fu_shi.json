@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "test:block/water_fu_shi"
+    },
+    "facing=east": {
+      "model": "test:block/water_fu_shi",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "test:block/water_fu_shi",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "test:block/water_fu_shi",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "test:water_spar"
+    },
+    "1": {
+      "tag": "minecraft:anvil"
+    },
+    "2": {
+      "item": "test:water_spar"
+    },
+    "3": {
+      "item": "test:water_crystal"
+    },
+    "4": {
+      "item": "minecraft:crafting_table"
+    },
+    "5": {
+      "item": "test:water_crystal"
+    },
+    "6": {
+      "item": "minecraft:oak_planks"
+    },
+    "7": {
+      "item": "minecraft:oak_planks"
+    },
+    "8": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "test:water_xiu_fu",
+    "count": 1
+  }
+}

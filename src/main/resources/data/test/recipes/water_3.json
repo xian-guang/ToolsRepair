@@ -1,0 +1,16 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "test:water_spar"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "test:water_stack",
+    "count": 1
+  }
+}

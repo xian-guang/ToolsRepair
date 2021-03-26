@@ -1,0 +1,12 @@
+{
+  "group": "test",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "test:water_block"
+  },
+  "result": {
+    "item": "test:water_spar"
+  }
+}

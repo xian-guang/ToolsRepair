@@ -1,0 +1,14 @@
+{
+  "item.test.water_spar": "水之晶石",
+  "block.test.water_fu_shi": "工具腐蚀台",
+  "item.test.water_pickaxe": "水之镐",
+  "item.test.water_hoe": "水之锄",
+  "item.test.water_crystal": "水之晶体",
+  "item.test.water_stack": "水火棍",
+  "itemGroup.tabwater": "水",
+  "item.test.water_spade": "水之铲",
+  "block.test.water_xiu_fu": "工具修复台",
+  "item.test.water_axe": "水之斧",
+  "item.test.water_sword": "水之剑",
+  "block.test.water_block": "水之方块"
+}

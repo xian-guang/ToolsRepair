@@ -1,0 +1,30 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "test:water_crystal"
+    },
+    "1": {
+      "item": "test:water_crystal"
+    },
+    "2": {
+      "item": "test:water_stack"
+    },
+    "3": {
+      "item": "test:water_crystal"
+    },
+    "4": {
+      "item": "test:water_stack"
+    }
+  },
+  "result": {
+    "item": "test:water_axe",
+    "count": 1
+  }
+}
